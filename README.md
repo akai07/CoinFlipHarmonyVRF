@@ -1,4 +1,4 @@
-# GameFlipHarmonyVRF
+# CoinFlipHarmonyVRF
 Game Development for Dyeus Web3
 
 
